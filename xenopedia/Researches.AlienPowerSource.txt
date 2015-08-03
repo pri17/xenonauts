@@ -1,6 +1,5 @@
 <index>Researches.AlienPowerSource</index>
 <name>Alien Power Source</name>
-<cname></cname>
 <cname>外星能量源</cname>
 <type>Alien Technology</type>
 <ctype>外星科技</ctype>
